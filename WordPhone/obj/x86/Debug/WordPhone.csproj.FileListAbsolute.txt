@@ -1,0 +1,5 @@
+D:\WORK\WordPhone\WordPhone\bin\Debug\WordPhone.exe
+D:\WORK\WordPhone\WordPhone\bin\Debug\WordPhone.pdb
+D:\WORK\WordPhone\WordPhone\obj\x86\Debug\WordPhone.csprojResolveAssemblyReference.cache
+D:\WORK\WordPhone\WordPhone\obj\x86\Debug\WordPhone.exe
+D:\WORK\WordPhone\WordPhone\obj\x86\Debug\WordPhone.pdb
